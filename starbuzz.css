@@ -65,6 +65,7 @@ a:visited {
   padding-top: 5px;
   padding-bottom: 5px;
   background-color: burlywood;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 
 }
