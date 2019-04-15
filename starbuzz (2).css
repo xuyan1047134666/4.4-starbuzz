@@ -82,13 +82,9 @@ a:visited {
 }
 
 #drinks {
-  display:table-cell;
+  float: left;
   background-color: #efe5d0;
   width:20%;
   padding:15px;
   vertical-align: top;
-  float: left;
-  
-  
-
 }
