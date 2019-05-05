@@ -90,15 +90,15 @@ div#tableRow{
 }
 #award{
   position:absolute;
-  top:30px;
+  top:31px;
   left:410px;
 }
 
 #coupon {
   position: fixed;
   top: 350px;
-  left: -250px;
-  transition: 0.5s;
+  left: -252px;
+  transition: 0.7s;
 }
 #coupon a, img {
   border: none;
